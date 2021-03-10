@@ -5,4 +5,5 @@ console.log("Baris Pertama");
 console.log("Baris Kedua");
 console.log("Baris Ketiga");
 
-//onsole.log("Baris Keempat");
+//Rabu
+console.log("Baris Keempat");
