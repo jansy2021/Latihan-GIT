@@ -1,7 +1,8 @@
 //Senin
 console.log("Baris Pertama");
-console.log("Baris Kedua");
 
 //Selasa
+console.log("Baris Kedua");
 console.log("Baris Ketiga");
-console.log("Baris Keempat");
+
+//onsole.log("Baris Keempat");
